@@ -1,0 +1,2 @@
+# ATCMTD
+Advanced Transportation Congestion Management Technologies Deployment (ATCMTD) grant program. ATCMTD funds cutting-edge transportation technologies to reduce congestion and improve the safety of our transportation system. This is a four-year effort, that kicked off in February, 2018. Denver is testing and demonstrating connected vehicle (CV) and infrastructure technology for improvements to congestion and safety for Denver residents and businesses.
